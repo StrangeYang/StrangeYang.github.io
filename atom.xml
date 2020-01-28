@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Strange Yang</title>
+  <icon>http://strangeyang.github.io/icon.png</icon>
+  <subtitle>梦开始的地方！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://strangeyang.github.io/"/>
+  <updated>2020-01-28T11:02:17.002Z</updated>
+  <id>http://strangeyang.github.io/</id>
+  
+  <author>
+    <name>Strange Yang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://strangeyang.github.io/2020/1/28/hello-world/"/>
+    <id>http://strangeyang.github.io/2020/1/28/hello-world/</id>
+    <published>2020-01-28T11:02:17.001Z</published>
+    <updated>2020-01-28T11:02:17.002Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
