@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Strange Yang</title>
+  <title>古典部</title>
   <icon>http://strangeyang.github.io/icon.png</icon>
   <subtitle>梦开始的地方！</subtitle>
   <link href="/atom.xml" rel="self"/>
