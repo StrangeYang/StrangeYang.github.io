@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>无题</title>
+      <link href="/focus-on-life/"/>
+      <url>/focus-on-life/</url>
+      
+        <content type="html"><![CDATA[<p>以前读到关于非典的文章，看到有关那段特殊时期日子的电影，都会用我那尚不成熟的想象力遐思这不平凡的岁月。2020年初，便切身体会到了。</p><p>然而，我只是想写则随笔，可能更像是那种随心的便条贴，想到什么说什么罢了。</p><p>古人云「鱼和熊掌不可得兼」。我想，那些想要同时兼顾两件事或者多件事的人，大都不会成功；不如说，每当我想要这样做的时候都会失败。我是由新闻软件想到的。我讨厌那些「千人千面」的算法，一旦我熟悉了那种「唯我正确」的观念，我便不再会拥有更广阔的胸襟，更开阔的思想，去容纳这个瞬息万变的世界。若我的口味在算法的指引下趋于单一，我便失去了生活，失去了新鲜的体验感。</p><p>我还想到新闻下面的盖楼讨论大部分是没有实际意义。应该说，讨论远离自身的又真实存在的世界上发生着的事情，不会有结果。比如今天读到IT之家上有人争论 ①Microsoft Office和WPS Office二者谁的合并套件先出 以及 ②格式互通协议对哪方更有利。然而，除了真正与这两家公司有直接关系的人和相关专业研究者，一般群众的讨论不过是「谁看到的自媒体文章看起来更吸引人」罢了。</p><p>学校的生活和教育是否也是与「专注」有紧密的关联呢？我回想自初中以来的学习生活，其实与小学时候并无两样。每天的学习任务和安排需要扎实的完成和及时的巩固即可，并不存在任何理解上的大问题。从上面的角度看，在进行基础学识教育的同时，还考验了学生的专注能力；而从我（我无法代表「我们」这么大的词）的角度看，不过是看谁更能耐住性子刻苦钻研罢了。</p><p>说是「不过」，实际上对我个人而言，是一件不轻松的事。我只有在相应的环境里，才会专注于一件事。「吃着碗里的想着锅里的」拿来形容我是我认可的，毕竟回顾自身经历，似乎连一部游戏都从未打通关过。追番剧大都不了了之，许多想要学习的技能也半途而废。在自己身上至今还找不出特别的闪光点，说来还是意志不够坚定，生性懒惰。</p><p>推拖。</p><p>改变的当下措施即是早睡，改正作息规律才是。不能丢弃对生活的信心。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 非典 </tag>
+            
+            <tag> 高中 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我理解的递归与汉诺塔在C++中的实现</title>
       <link href="/ecursive-hanoi/"/>
       <url>/ecursive-hanoi/</url>
