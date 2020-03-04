@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://strangeyang.github.io/"/>
-  <updated>2020-02-26T17:41:35.232Z</updated>
+  <updated>2020-03-04T23:57:42.189Z</updated>
   <id>http://strangeyang.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>想见你</title>
+    <link href="http://strangeyang.github.io/someday-or-one-day/"/>
+    <id>http://strangeyang.github.io/someday-or-one-day/</id>
+    <published>2020-03-04T23:55:02.000Z</published>
+    <updated>2020-03-04T23:57:42.189Z</updated>
+    
+    <content type="html"><![CDATA[<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/last-dance/156141637?i=156141673"></iframe><p>正是黄雨萱对王诠胜深深的不舍，才会让李子维爱上那个独立的陈韵如。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe allow=&quot;autoplay *; encrypted-media *;&quot; frameborder=&quot;0&quot; height=&quot;150&quot; style=&quot;width:100%;max-width:660px;overflow:hidden;background:tra
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>无题</title>
