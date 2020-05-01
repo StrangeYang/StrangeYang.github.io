@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://strangeyang.github.io/"/>
-  <updated>2020-03-08T07:41:15.929Z</updated>
+  <updated>2020-05-01T12:04:00.929Z</updated>
   <id>http://strangeyang.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>青春期综合症</title>
+    <link href="http://strangeyang.github.io/youth-in-school/"/>
+    <id>http://strangeyang.github.io/youth-in-school/</id>
+    <published>2020-05-01T11:07:32.000Z</published>
+    <updated>2020-05-01T12:04:00.929Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="空气"><a class="markdownIt-Anchor" href="#空气"></a> 空气</h2><p>我也讨厌「氛围」。</p><p>我不因为大家都会做而做一件事情。学校真是一个奇怪的地方，在单调而又无聊的学习生活里面，大家期待而渴望挖掘身边不平凡的事情。所谓班级的大多数，尽是渴望能出现一个出众而显眼的人，大家把目光、关注、舆论聚焦到这个人身上，便又是「相安无事」的一天。</p><p>这样的「空气」一旦形成，不是一个人，两个人或是一个寝室的人能够改变的。它膨胀着欲想要吞噬着更多的人，谁反抗谁就会被反噬。持有着正义的人在空气中的大众面前不过是耍着帽子的滑稽小丑，所以没有人愿意与之对抗，不过是徒增能耗罢了。愿意站在客观的角度思考已经是一件极为不容易的事了，何况向大众展示自己不成熟的想法呢？热闹都是他们的，我什么也没有。</p><a id="more"></a><p>所幸我所生活的世界并不被这小小的空气所笼罩着，或者说，我的世界是被几种几十种不同的空气所笼罩。别人的热情与善良给予了我更多的选择，提供了大大小小的庇护所。若我在孤独时我总会有处可去而不至于风餐露宿或是为人所弃。</p><p>我也为我身边有许许多多敢于与世对争，敢于「多管闲事」，敢于与所见的不公相斗争的朋友。他们是值得我珍惜的。他们即是一群无论你与这个世界背离多远也愿意接纳你的人，这样的人不多。</p><h2 id="坦诚"><a class="markdownIt-Anchor" href="#坦诚"></a> 坦诚</h2><h3 id="我们应如何面对自己的内心"><a class="markdownIt-Anchor" href="#我们应如何面对自己的内心"></a> 我们应如何面对自己的内心。</h3><p>我还记得那个反孔融让梨的故事，理由是孔融违背了自己的内心。若是一个人内心想要什么，便应当直面欲望，大胆的告诉别人和自己：我想要！并且为之竞争和奋斗。在假惺惺地谦让给别人的时候，内心真实的想法却是希望别人谦让给自己，可笑。我们都想要得到更好的，除非真的对其不感兴趣；或者自己想要，却服气地承认对手的努力与强大，而真正的谦让。</p><h3 id="青春期懵懂的喜欢的感情大概也与坦诚这个词有些联系"><a class="markdownIt-Anchor" href="#青春期懵懂的喜欢的感情大概也与坦诚这个词有些联系"></a> 青春期懵懂的「喜欢」的感情大概也与坦诚这个词有些联系</h3><p>在我的世界里，喜欢就应当表白，被拒绝就坦然的接受，这样就好了。若缠缠绵绵不了断，只会伤害双方，徒增能耗罢了。</p><p>思念而又不得。「衣带渐宽终不悔，为伊消得人憔悴。」暗恋之苦，如嚼泪眠。希望你能够尽早向所爱之人表达内心，就能减少几分痛苦了吧。</p><h2 id="永远"><a class="markdownIt-Anchor" href="#永远"></a> 永远</h2><p>世界上不会存在永远，我能做到的也只有尽可能的不要许下太过长远的承诺。世界上的一切都会变化，我们要坦然接受。任何形式的拐弯抹角都是对现状的保留，那还不如把过去忘了重新开始旅行。</p><p><em>To Be Continued</em></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;空气&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#空气&quot;&gt;&lt;/a&gt; 空气&lt;/h2&gt;
+&lt;p&gt;我也讨厌「氛围」。&lt;/p&gt;
+&lt;p&gt;我不因为大家都会做而做一件事情。学校真是一个奇怪的地方，在单调而又无聊的学习生活里面，大家期待而渴望挖掘身边不平凡的事情。所谓班级的大多数，尽是渴望能出现一个出众而显眼的人，大家把目光、关注、舆论聚焦到这个人身上，便又是「相安无事」的一天。&lt;/p&gt;
+&lt;p&gt;这样的「空气」一旦形成，不是一个人，两个人或是一个寝室的人能够改变的。它膨胀着欲想要吞噬着更多的人，谁反抗谁就会被反噬。持有着正义的人在空气中的大众面前不过是耍着帽子的滑稽小丑，所以没有人愿意与之对抗，不过是徒增能耗罢了。愿意站在客观的角度思考已经是一件极为不容易的事了，何况向大众展示自己不成熟的想法呢？热闹都是他们的，我什么也没有。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://strangeyang.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="高中" scheme="http://strangeyang.github.io/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+      <category term="青春猪头少年" scheme="http://strangeyang.github.io/tags/%E9%9D%92%E6%98%A5%E7%8C%AA%E5%A4%B4%E5%B0%91%E5%B9%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>想见你</title>
@@ -62,9 +90,9 @@
       <category term="随笔" scheme="http://strangeyang.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="非典" scheme="http://strangeyang.github.io/tags/%E9%9D%9E%E5%85%B8/"/>
-    
       <category term="高中" scheme="http://strangeyang.github.io/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+      <category term="非典" scheme="http://strangeyang.github.io/tags/%E9%9D%9E%E5%85%B8/"/>
     
   </entry>
   
